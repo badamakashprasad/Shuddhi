@@ -6,3 +6,4 @@ This repo is made to Clean up the dataset automatically for visualisation and pr
 > Deals with missing spaces according to the user    
 > Add and Remove Features automatically for better Prediction    
 > Reduces Data loss while manipulation    
+> Works on only csv file
